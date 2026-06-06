@@ -48,7 +48,7 @@ BADR Invest is a mobile-first brokerage system that digitizes the investment pro
 
 - [Requirements](requirements/)
 - [UML Diagrams](uml/)
+- [Architecture](architecture/)
 - [Database](database/)
 - [Poster](poster/)
-- documentation/
 
