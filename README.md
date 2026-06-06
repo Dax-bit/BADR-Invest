@@ -67,6 +67,7 @@ BADR Invest aims to digitalize the investor journey by providing:
 <p align="center">
   <img src="screenshots/create-acount.jpg" width="15%">
 </p>
+---
 
 ### Market & Analysis
 
@@ -74,6 +75,7 @@ BADR Invest aims to digitalize the investor journey by providing:
   <img src="screenshots/market1.jpg" width="15%">
   <img src="screenshots/chart.jpg" width="15%">
 </p>
+---
 
 ### Portfolio Management
 
@@ -81,6 +83,7 @@ BADR Invest aims to digitalize the investor journey by providing:
   <img src="screenshots/portfolio1.jpg" width="15%">
   <img src="screenshots/portfolio2.jpg" width="15%">
 </p>
+---
 
 ### Compliance & Verification
 
@@ -88,6 +91,7 @@ BADR Invest aims to digitalize the investor journey by providing:
   <img src="screenshots/kyc.jpg" width="15%">
   <img src="screenshots/bank-link.jpg" width="15%">
 </p>
+---
 
 ### User Profile
 
