@@ -98,12 +98,14 @@ This design ensures:
 
 The system is structured as:
 
+---
 User Interface (Android UI)
-↓
+→
 Business Logic Layer (Services + Controllers)
-↓
+→
 Local Database (SQLite)
 
+---
 
 This simple layered architecture ensures:
 - Clear separation of concerns
