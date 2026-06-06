@@ -65,13 +65,13 @@ BADR Invest aims to digitalize the investor journey by providing:
 ### Authentication & Onboarding
 
 <p align="center">
-  <img src="screenshots/create-account.png" width="30%">
+  <img src="screenshots/create-acount.png" width="30%">
 </p>
 
 ### Market & Analysis
 
 <p align="center">
-  <img src="screenshots/market.jpg" width="30%">
+  <img src="screenshots/market1.jpg" width="15%">
   <img src="screenshots/chart.jpg" width="30%">
 </p>
 
