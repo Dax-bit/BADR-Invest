@@ -51,5 +51,5 @@ Below are key interfaces of the BADR Invest platform.
 
 <p align="center">
   <img src="profile1.jpg" width="45%" />
-  <img src="profile1.jpg" width="45%" />
+  <img src="profile2.jpg" width="45%" />
 </p>
