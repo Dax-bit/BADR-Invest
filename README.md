@@ -94,7 +94,8 @@ BADR Invest aims to digitalize the investor journey by providing:
 ### Compliance & Verification
 
 <p align="center">
-  <img src="screenshots/kyc.jpg" width="15%">
+  <img src="screenshots/kyc1.jpg" width="15%">
+  <img src="screenshots/kyc2.jpg" width="15%">
   <img src="screenshots/bank-link.jpg" width="15%">
 </p>
 
