@@ -54,7 +54,7 @@ This diagram represents the system structure using object-oriented principles.
 
 ## 3. Sequence Diagram - Market Consultation
 
-![Market Consultation Sequence](consulter-marche-sequence.png)
+![Market Consultation Sequence](consulter-marche-seq.png)
 
 ### Description
 Represents the flow when a user consults market data.
