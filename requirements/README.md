@@ -2,13 +2,13 @@
 
 This section defines the functional and non-functional requirements of the BADR Invest brokerage platform.
 
-The system is designed to provide a digital solution for stock trading, portfolio management, and compliance (KYC + bank linking).
+The system provides a digital solution for stock trading, portfolio management, and regulatory compliance (KYC + bank account linking).
 
 ---
 
-# 2. Functional Requirements (Besoins Fonctionnels)
+# 1. Functional Requirements
 
-The functional requirements define the core features provided to users (Investors) and internal operators.
+The functional requirements describe the core features provided to users (Investors) and internal operators.
 
 ---
 
@@ -29,7 +29,7 @@ The functional requirements define the core features provided to users (Investor
 | BF-11 | Investor | Delete user account |
 | BF-12 | Investor | Logout from the platform |
 | BF-13 | Investor | Submit KYC (Know Your Customer) file |
-| BF-14 | Investor | Add bank account and link it to the platform |
+| BF-14 | Investor | Add a bank account and link it to the platform |
 
 ---
 
@@ -42,55 +42,45 @@ The functional requirements define the core features provided to users (Investor
 
 ---
 
-# 3. Non-Functional Requirements (Besoins Non Fonctionnels)
+# 2. Non-Functional Requirements
 
-Les besoins non fonctionnels décrivent les contraintes de qualité, de performance, de sécurité et de disponibilité du système.
+Non-functional requirements define system quality constraints such as performance, security, reliability, and availability.
 
-Dans le contexte du secteur bancaire et du courtage (BADR Invest), ces exigences sont critiques pour garantir un service fiable et sécurisé.
+These requirements are critical in the context of a financial brokerage system.
 
 ---
 
-## Table 2.2 – Besoins Non Fonctionnels
+## Table 2.2 – Non-Functional Requirements
 
-| ID | Catégorie | Description |
+| ID | Category | Description |
 |----|----------|-------------|
-| BNF-01 | Performance | Le temps de réponse des requêtes standards doit être inférieur à 500 ms afin d’assurer une expérience fluide. |
-| BNF-02 | Disponibilité | Le système doit garantir un taux de disponibilité de 99,9% (hors maintenance). |
-| BNF-03 | Sécurité | Les données sensibles (utilisateurs, KYC, transactions) doivent être chiffrées et protégées contre tout accès non autorisé. |
-| BNF-04 | Fiabilité | Les informations fournies par le système doivent être exactes, cohérentes et vérifiables. |
+| BNF-01 | Performance | Standard requests must respond in less than 500ms to ensure a smooth user experience. |
+| BNF-02 | Availability | The system must guarantee 99.9% uptime (excluding maintenance). |
+| BNF-03 | Security | Sensitive data (users, KYC documents, transactions) must be encrypted and protected against unauthorized access. |
+| BNF-04 | Reliability | All system information must be accurate, consistent, and verifiable. |
 
 ---
 
-## Explication des exigences
+## Explanation of Requirements
 
 ### Performance
-Le système doit répondre rapidement aux requêtes utilisateur afin de supporter une utilisation en temps réel (consultation de marché, ordres de trading).
+The system must respond quickly to user requests, especially for real-time market consultation and trading operations.
 
-### Disponibilité
-La plateforme doit être accessible en permanence, car les marchés financiers fonctionnent en continu et les utilisateurs doivent pouvoir trader à tout moment.
+### Availability
+The platform must remain continuously accessible, as financial markets operate in real time and users may trade at any moment.
 
-### Sécurité
-Étant une plateforme financière, la sécurité est une priorité absolue :
-- chiffrement des données sensibles
-- protection des comptes utilisateurs
-- contrôle d’accès strict basé sur les rôles
+### Security
+As a financial platform, security is a top priority:
+- encryption of sensitive data
+- secure authentication
+- role-based access control
 
-### Fiabilité
-Les données affichées (prix, ordres, portefeuille) doivent être cohérentes et refléter l’état réel du système sans erreurs ni pertes d’information.
+### Reliability
+Market data, orders, and portfolio information must always reflect the real system state without inconsistencies or data loss.
 
 ---
 
-## Lien avec le système
-
-Ces exigences influencent directement :
-- l’architecture logicielle
-- la base de données
-- les choix de sécurité
-- les performances des opérations de trading
-
-Elles complètent les besoins fonctionnels et garantissent la qualité globale du système BADR Invest.
-
-# 4. Business Rules (Règles Métier)
+# 3. Business Rules
 
 - A user must complete KYC before executing financial transactions
 - A user can only link one bank account at a time
@@ -100,7 +90,7 @@ Elles complètent les besoins fonctionnels et garantissent la qualité globale d
 
 ---
 
-# 5. Link with UML Model
+# 4. Link with UML Model
 
 The requirements are directly mapped to the UML diagrams:
 
