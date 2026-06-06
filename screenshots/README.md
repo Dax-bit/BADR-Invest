@@ -7,7 +7,7 @@ Below are key interfaces of the BADR Invest platform.
 ## Authentication & Onboarding
 
 <p align="center">
-  <img src="create-account.png" width="45%" />
+  <img src="create-acount.jpg" width="45%" />
 </p>
 
 ---
