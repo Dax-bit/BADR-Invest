@@ -15,8 +15,8 @@ Below are key interfaces of the BADR Invest platform.
 ## Market & Trading Interface
 
 <p align="center">
-  <img src="market.png" width="45%" />
-  <img src="chart.png" width="45%" />
+  <img src="market1.jpg" width="45%" />
+  <img src="chart.jpg" width="45%" />
 </p>
 
 ---
@@ -24,7 +24,8 @@ Below are key interfaces of the BADR Invest platform.
 ## Portfolio Management
 
 <p align="center">
-  <img src="portfolio.png" width="45%" />
+  <img src="portfolio1.jpg" width="45%" />
+  <img src="portfolio2.jpg" width="45%" />
 </p>
 
 ---
@@ -32,7 +33,8 @@ Below are key interfaces of the BADR Invest platform.
 ## Compliance (KYC)
 
 <p align="center">
-  <img src="kyc.png" width="45%" />
+  <img src="kyc1.jpg" width="45%" />
+  <img src="kyc2.jpg" width="45%" />
 </p>
 
 ---
@@ -40,7 +42,7 @@ Below are key interfaces of the BADR Invest platform.
 ## Bank Linking
 
 <p align="center">
-  <img src="bank-link.png" width="45%" />
+  <img src="bank-link.jpg" width="45%" />
 </p>
 
 ---
@@ -48,5 +50,6 @@ Below are key interfaces of the BADR Invest platform.
 ## User Profile
 
 <p align="center">
-  <img src="profile.png" width="45%" />
+  <img src="profile1.jpg" width="45%" />
+  <img src="profile1.jpg" width="45%" />
 </p>
