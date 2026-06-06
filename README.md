@@ -171,9 +171,9 @@ The project includes:
 
 ## Author
 
-Badr
+Ben Makhlouf Soltane "DAX"
 
-Computer Science Student
+Computer Science Graduate
 
 Areas of Interest:
 - Software Engineering
